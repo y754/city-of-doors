@@ -9,60 +9,9 @@ tags:
  - haruspex
 publish: true
 ---
-# Stats
-```statblock
-layout: Basic 5e Layout
-source: homebrew
-image: 
-name:
-size: 
-type: 
-subtype: 
-alignment: 
-ac: 
-hp: 
-hit_dice: 
-speed: 
-stats:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-fage_stats: 
-saves:
-  - 
-skillsaves:
-  - 
-damage_vulnerabilities: 
-damage_resistances: 
-condition_immunities: 
-senses: 
-languages: 
-cr: 
-traits:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-actions:
-  - name: 
-    desc:
-  - name: 
-    desc: 
-bonus_actions:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-reactions:
-  - name: 
-    desc:
-spells:
-  - 
-```
-
+> [!caption|center text-center clean c-p-med]
+>![[placeholder.png|300]]
+>*Quote*
 # Appearance
 As a juggernaut warforged, Octavius is larger-than-life, built like a marble statue; she stands around 7.5 feet, forged from white steel and polished to a gleam. Mercykiller bronze and black iron marks her shoulders, banded on her upper arms, while the plate armour fused to her body bears the insignia of Tyr, a set of scales and a warhammer.
 # Backstory

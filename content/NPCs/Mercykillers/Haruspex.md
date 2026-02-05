@@ -9,60 +9,9 @@ tags:
  - haruspex
 publish: true
 ---
-# Stats
-```statblock
-layout: Basic 5e Layout
-source: homebrew
-image: 
-name:
-size: 
-type: 
-subtype: 
-alignment: 
-ac: 
-hp: 
-hit_dice: 
-speed: 
-stats:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-fage_stats: 
-saves:
-  - 
-skillsaves:
-  - 
-damage_vulnerabilities: 
-damage_resistances: 
-condition_immunities: 
-senses: 
-languages: 
-cr: 
-traits:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-actions:
-  - name: 
-    desc:
-  - name: 
-    desc: 
-bonus_actions:
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-reactions:
-  - name: 
-    desc:
-spells:
-  - 
-```
-
+> [!caption|center text-center clean c-p-med]
+>![[placeholder.png|300]]
+>*Quote*
 # Appearance
 Tall, pale, and thin: they have a third eye on their forehead, which they usually keep covered by their hood.  
 Their eyes are blank white, with three pupils each. Their hands were amputated after the Mercykillers hung them from the wall in their cell for days; they now have permanent mage hands at their wrists.

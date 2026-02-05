@@ -9,6 +9,9 @@ tags:
  - haruspex
 publish: true
 ---
+> [!caption|center text-center clean c-p-med]
+>![[placeholder.png|300]]
+>*Quote*
 # Appearance
 Her skin is charcoal-black, with veins like cracks that glow orange-red. Her eyes are that same volcanic orange, with slit pupils, and her hair is fiery red, slicked back and straight. Her teeth are sharp and white, 
 # Backstory
