@@ -3,6 +3,7 @@ title: Sigil
 description: Information about the City of Doors.
 publish: true
 ---
+![[sigil.jpg]]
 **Sigil**, also known as the **Cage**, the **City of Doors**, or, less commonly, the **City of Secrets**, is a floating city in the center of the Outlands and the self-proclaimed center of the multiverse in the Great Wheel cosmology. A major hub for interplanar travel, the city contains multiple *portals* to every single plane, as well as to numerous locations in the Prime Material Plane. It is considered a *demiplane* in the World Axis cosmology.
 
 Sigil was located in the Outlands, hovering above the immensely tall landmark known as the Spire that stood at the plane's center. From the Outlands, it was possible to see Sigil hovering atop the Spire as the mountaintop vanished into nothingness.

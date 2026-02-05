@@ -7,6 +7,6 @@ faction: Raven Queen
 status: alive
 ---
 > [!caption|center text-center clean c-p-med]
->![[image.png|300]]
+>![[twh.png|300]]
 >*Quote*
 ## Backstory

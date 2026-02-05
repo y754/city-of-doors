@@ -3,9 +3,9 @@ publish: true
 tags:
   - npc
 faction:
-status: alive
+status: missing:(
 ---
 > [!caption|center text-center clean c-p-med]
->![[vel.png|300]]
+>![[kulani.png|300]]
 >*Quote*
 ## Backstory
