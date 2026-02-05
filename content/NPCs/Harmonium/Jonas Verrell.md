@@ -8,6 +8,9 @@ tags:
  - harmonium
  - jonas-verrell
 ---
+> [!caption|center text-center clean c-p-med]
+>![[placeholder.png|300]]
+>*Quote*
 # Appearance
 Human man, bulky with black hair and a permanent scowl.
 # Backstory

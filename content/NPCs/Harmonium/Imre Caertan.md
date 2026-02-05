@@ -9,6 +9,9 @@ tags:
  - imre-caertan
 publish: true
 ---
+> [!caption|center text-center clean c-p-med]
+>![[caertan.webp|300]]
+>*Quote*
 # Appearance
 A tall, willowy humanoid with copper-brown skin with a metallic sheen to it. His chair is glossy chestnut, falling to his shoulders, and his eyes glow pure white. There is an intensity to his presence, an unyielding awareness that makes him difficult to read. When he speaks, his voice is calm and cool.
 # Backstory

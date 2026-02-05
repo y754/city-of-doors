@@ -9,6 +9,9 @@ tags:
  - harmonium
  - tsek
 ---
+> [!caption|center text-center clean c-p-med]
+>![[placeholder.png|300]]
+>*Quote*
 # Appearance
 - Githyanki
 # Backstory

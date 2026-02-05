@@ -9,6 +9,9 @@ tags:
  - harmonium
  - cenia-paullus
 ---
+> [!caption|center text-center clean c-p-med]
+>![[cenia.webp|300]]
+>*Quote*
 # Appearance
 Aasimar, black hair, gold eyes, pale skin with deep scars.
 # Backstory
