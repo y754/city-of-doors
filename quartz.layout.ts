@@ -65,11 +65,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(
-        title: "Explorer",
-        folderClickBehavior: "link",
-        folderDefaultState: "collapsed",
-        useSavedState: true
-    )],
+    Component.Explorer({
+            title: "Contents",
+            folderClickBehavior: "collapse",
+            folderDefaultState: "open",
+            useSavedState: true,
+            sortFn: (a, b) => {
+                return a.displayName.localeCompare (b.displayName)
+            }
+          })
+  ],
   right: [],
 }
