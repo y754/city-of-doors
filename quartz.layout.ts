@@ -69,7 +69,7 @@ export const defaultListPageLayout: PageLayout = {
         title: "Explorer",
         folderClickBehavior: "link",
         folderDefaultState: "collapsed",
-        useSavedState: true,
+        useSavedState: true
     )],
   right: [],
 }
