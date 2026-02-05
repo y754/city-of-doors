@@ -5,6 +5,7 @@ tags:
   - fraternity-of-order
 creation date: 1970-01-01 01:00
 modification date: Thursday 5th February 2026 19:07:14
+banner: /city-of-doors/z-Assets/banners/fraternity-of-order-banner.jpg
 ---
 > [!caption|center text-center clean c-p-med]
 > ![[fraternity of order.webp|contain 200]]
