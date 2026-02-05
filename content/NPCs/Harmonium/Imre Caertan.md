@@ -4,6 +4,10 @@ faction: Harmonium
 creation date: 2026-01-07 19:08
 modification date: Wednesday 7th January 2026 19:08:37
 status: alive
+tags:
+ - harmonium
+ - imre-caertan
+publish: true
 ---
 # Appearance
 A tall, willowy humanoid with copper-brown skin with a metallic sheen to it. His chair is glossy chestnut, falling to his shoulders, and his eyes glow pure white. There is an intensity to his presence, an unyielding awareness that makes him difficult to read. When he speaks, his voice is calm and cool.

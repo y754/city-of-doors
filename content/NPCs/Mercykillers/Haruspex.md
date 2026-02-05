@@ -4,6 +4,10 @@ faction: Mercykillers
 creation date: 2026-01-07 19:01
 modification date: Wednesday 7th January 2026 19:01:57
 status: alive
+tags:
+ - mercykillers
+ - haruspex
+publish: true
 ---
 # Stats
 ```statblock
