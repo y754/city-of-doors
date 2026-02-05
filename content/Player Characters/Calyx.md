@@ -32,6 +32,12 @@ languages:
 ---
 > [!caption|center text-center clean c-p-med]
 >![[calyx.png|300]]
->*Quote*
+>
+>|  |  |
+>| -- | -- |
+>| Race | `=this.race` |
+>| Class | `=this.class` |
+>| Subclass | `=this.subclass` |
+>| Player | `=this.player` |
 ## Backstory
 ## Major NPCs
