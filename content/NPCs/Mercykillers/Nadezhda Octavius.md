@@ -6,7 +6,7 @@ modification date: Wednesday 7th January 2026 19:01:10
 status: alive
 tags:
  - mercykillers
- - haruspex
+ - npc
 publish: true
 ---
 > [!caption|center text-center clean c-p-med]
