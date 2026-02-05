@@ -5,6 +5,7 @@ tags:
   - mutual-trade-association
 creation date: 1970-01-01 01:00
 modification date: Thursday 5th February 2026 19:08:01
+banner: mutual trade association banner.jpg
 ---
 > [!caption|center text-center clean c-p-med]
 > ![[mta icon.png|200]]
