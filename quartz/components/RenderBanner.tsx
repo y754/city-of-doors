@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const RenderBanner: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const title = fileData.frontmatter?.banner
+  const banner = fileData.frontmatter?.banner
   if (banner) {
     return <img class={classNames(displayClass, "banner")} src={banner} />
   } else {
