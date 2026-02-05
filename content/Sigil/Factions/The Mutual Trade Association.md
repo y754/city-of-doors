@@ -5,9 +5,9 @@ tags:
   - mutual-trade-association
 creation date: 1970-01-01 01:00
 modification date: Thursday 5th February 2026 19:08:01
-banner: /city-of-doors/z-Assets/banners/mutual-trade-association-banner.jpg
+banner: ./city-of-doors/z-Assets/banners/mutual-trade-association-banner.jpg
+faction: mutual trade association
 ---
-
 > [!caption|center text-center clean c-p-med]
 > ![[mta icon.png|200]]
 > *Quote*
@@ -17,6 +17,6 @@ The **Mutual Trade Association** (shortened to **MTA**) is a business consortium
  ### Notable Members
 ```dataview
 LIST
-FROM "4. Characters/NPCs"
+FROM "NPCs"
 WHERE faction = this.faction
 ```
