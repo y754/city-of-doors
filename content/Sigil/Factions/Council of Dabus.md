@@ -5,6 +5,8 @@ tags:
   - lady-of-pain
 creation date: 1970-01-01 01:00
 modification date: Thursday 5th February 2026 19:03:05
+banner: /city-of-doors/z-Assets/banners/Sigil_streets_5e.webp
+bannerCitation: Planescape - Sigil and the Outlands, Terraform Studios
 ---
 > [!caption|center text-center clean c-p-med]
 > ![[LadyofPainLineart.webp|200]]

@@ -3,14 +3,19 @@ title: index
 publish: true
 ---
 
-- [ ] factions
+- [ ] faction banners
 	- [ ] mercykillers
 	- [ ] harmonium
 	- [ ] senate & courts
-	- [ ] cult
-- [ ] sigil
-	- [ ] wards
-	- [ ] merchants
-- [ ] npcs
-- [ ] player characters
+	- [x] cult
+	- [x] council of dabus
+	- [x] fraternity of order (find new one w credit)
+	- [x] mta (find new one with credit)
+- [ ] ward banners
+	- [x] foundry
+	- [ ] guildhall
+	- [x] hive
+	- [ ] lady's ward
+	- [ ] roost
+	- [ ] verdant square
 - [ ] timeline

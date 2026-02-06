@@ -5,6 +5,8 @@ tags:
   - obox-ob
 creation date: 1970-01-01 01:00
 modification date: Thursday 5th February 2026 19:05:10
+banner: /city-of-doors/z-Assets/banners/obox-ob.jpg
+bannerCitation: Dungeons & Dragons - Out of the Abyss
 ---
 > [!caption|center text-center clean c-p-med]
 > ![[obox-ob.webp|200]]
