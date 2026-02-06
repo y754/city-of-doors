@@ -3,7 +3,7 @@ publish: true
 tag:
   - wards
   - foundry
-banner: /city-of-doors/z Assets/banners/foundry.PNG
+banner: /city-of-doors/z-Assets/banners/foundry.PNG
 bannerCitation: Czepeku (https://www.czepeku.com/fantasy/scenes)
 ---
 Industrial district, where the factories and smiths can be found. High concentration of doors here, as goods are imported and exported on a larger scale than from the Guildhall, as well as higher crime rates.
