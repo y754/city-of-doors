@@ -30,7 +30,7 @@ RenderBanner.css = `
   right: 0vw;
   bottom: 2em;
   text-align: right;
-  font-size: 0.8em;
+  font-size: 0.7em;
   width: 100%;
   display: block;
 }
