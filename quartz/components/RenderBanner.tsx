@@ -5,7 +5,7 @@ const RenderBanner: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   const banner = fileData.frontmatter?.banner
   const bannerCitation = fileData.frontmatter?.bannerCitation
   if (banner) {
-    return <div class="bannerContainer"><img class={classNames(displayClass, "banner")} src={banner} /><span class="bannerCite">"Banner from: "{bannerCitation}</span></div>
+    return <div class="bannerContainer"><img class={classNames(displayClass, "banner")} src={banner} /><span class="bannerCite">Banner from: {bannerCitation}</span></div>
   } else {
     return null
   }
