@@ -6,7 +6,7 @@
     --titleFont: "Spectral SC", sans-serif!important;
     --bodyFont: "Spectral", sans-serif!important;
 }
-body, p {font-family:var(--bodyFont)!important;}
+body, p, body strong {font-family:var(--bodyFont)!important;}
 body h1 {font-weight:normal!important;}
 h1, h2, h3, h4, h5, a, .explorer {
     font-family: var(--headerFont)!important;
