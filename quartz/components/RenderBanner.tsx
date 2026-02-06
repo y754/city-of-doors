@@ -5,7 +5,7 @@ const RenderBanner: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   const banner = fileData.frontmatter?.banner
   const bannerCitation = fileData.frontmatter?.bannerCitation
   if (banner) {
-    return <div class="banenrContainer">"<img class={classNames(displayClass, "banner")} src={banner} /><span class="bannerCite">{bannerCitation}</span></div>
+    return <div class="bannerContainer"><img class={classNames(displayClass, "banner")} src={banner} /><span class="bannerCite">"Banner from: "{bannerCitation}</span></div>
   } else {
     return null
   }
@@ -17,16 +17,22 @@ RenderBanner.css = `
   width: 100%;
   padding: 0;
   height: 250px;
+  max-height:250px;
 }
 .banner {
   mask-image: linear-gradient(to bottom, rgb(0, 0, 0),rgba(0,0,0,0));
+  height:250px;
+  width: 100%;
+  object-fit: cover;
 }
-.bannerCitation {
+.bannerCite {
   position: relative;
   right: 0vw;
-  bottom: 0vh;
+  bottom: 2em;
   text-align: right;
   font-size: 0.8em;
+  width: 100%;
+  display: block;
 }
 `
 
