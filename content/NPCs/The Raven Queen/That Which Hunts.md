@@ -93,4 +93,6 @@ A Shadar-Kai of medium height and build, with a permanent scowl etched onto his 
 
 He moves fast and with purpose, fingers always twitching like he's impatient to be somewhere, to do something; even at rest, his eyes are rarely still, always watching, always drawn to nearby sound and movement. Only when fully focused does he seem still: a spider watching a fly. His voice is a deep, rough rasp, as though barely used.
 # Backstory
-That Which Hunts and his team came to Sigil on behalf of the Raven Queen, searching for an artifact that was stolen by Vel - they were caught in the attempt to steal it back, and have been steadily killed off in the Arena. That Which Hunts is kept alive as bait for their team leader, [[02 - Characters/NPCs/Enduring Grief]] but she hasn't taken it yet.
+That Which Hunts and his team came to Sigil on behalf of the Raven Queen, searching for an artifact that was stolen by Vel - they were caught in the attempt to steal it back, and have been steadily killed off in the Arena. That Which Hunts is kept alive as bait for their team leader, [[Enduring Grief]] but she hasn't taken it yet.
+
+Following their escape via Morgan's tower, the Party returned to the Arena to destroy Vel's tracking device; That Which Hunts joined them in their escape (with... mixed success) and spent a night with them at the House of the Griffon, before departing, not before promising to see Jonquil again, for the Shadowfell.

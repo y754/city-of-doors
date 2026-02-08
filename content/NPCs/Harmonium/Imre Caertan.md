@@ -18,6 +18,5 @@ A tall, willowy humanoid with copper-brown skin with a metallic sheen to it. His
 As a greater celestial, there are many who claim Caertan was sent by the gods to be Sigil's salvation; he vehemently disavows this claim. Not only is it dangerous to be brought to the attention of the Lady of Pain in such a way, but it undermines his true mission: bringing order to the chaos of Sigil, under his own free will. He insists his motives are not celestial or divine, but concerned with the mortals he regards as his flock, stemming from his own desire to see peace in the multiverse.
 
 The courts find this narrative distasteful, as it undermines their authority and purpose; many others find it to be too adjacent to fascism for comfort. The fact remains, though, that Caertan is profoundly popular amongst the common folk of Sigil, his unwaving dedication to the safety and wellbeing of his sheep a balm in troubled times.
-
 ## Calyx
 Caertan was present during Calyx's trial; not as a judge nor a witness, but simply watching. As a result of his silent, unblinking presence, the Harmonium soldiers were on high alert, peacocking for their boss. There's a small, resentful thought in the back of your mind that had he not attended, your fate would have looked very different. Perhaps worse - but we may never know.

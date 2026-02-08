@@ -10,6 +10,11 @@ bannerCitation: Planescape - Sigil and the Outlands, Terraform Studios
 ---
 > [!caption|center text-center clean c-p-med]
 > ![[LadyofPainLineart.webp|200]]
+>> [!infobox|clean wfull]
+>> | | |
+>> | - | - |
+>> | **Leader** | [[Lady of Pain]] |
+>> | **HQ** | [[The Lady's Ward#Hall of Concordance\|Hall of Concordance]] |
 
 Dabus were humanoids with white hair, goat-like horns, and yellow-tan skin. They floated inches above the ground, their feet never touching the earth.
 
