@@ -6,7 +6,7 @@ tags:
 creation date: 1970-01-01 01:00
 modification date: Thursday 5th February 2026 19:07:14
 banner: /city-of-doors/z-Assets/banners/fraternityoforder.jpg
-bannerCitation: Photo by <a href="https://unsplash.com/photos/brown-and-blue-desk-globe-in-library-BpbkLACP64M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Francisca</a>
+bannerCitation: Jonathan Francisca (https://unsplash.com/photos/brown-and-blue-desk-globe-in-library-BpbkLACP64M)
 ---
 > [!caption|center text-center clean c-p-med]
 > ![[fraternity of order.webp|contain 200]]

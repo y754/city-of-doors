@@ -41,10 +41,14 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      sortFn: (a, b) => {
-        return a.displayName.localeCompare(b.displayName)
-      },
-    }),
+            title: "Contents",
+            folderClickBehavior: "collapse",
+            folderDefaultState: "open",
+            useSavedState: true,
+            sortFn: (a, b) => {
+                return a.displayName.localeCompare (b.displayName)
+            }
+          })
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
